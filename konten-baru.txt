@@ -5,5 +5,5 @@ makan
 wo
 wo
 data
-pyton aaa
-kkkk
+bobon
+angular
