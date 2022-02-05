@@ -4,3 +4,4 @@ main
 makan
 wo
 wo
+data
